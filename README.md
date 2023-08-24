@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**MartinSlepian/MartinSlepian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Martín Slepian de número de estudiante 266959
 
 Here are some ideas to get you started:
 
